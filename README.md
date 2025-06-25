@@ -37,6 +37,7 @@
 - ファミリー層に近年人気
 ## ニュース
 [サル出没](https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1310052950682665522)
->海老名市上今泉２丁目にサルが出没しました。
+>海老名市上今泉２丁目にサルが出没しました。　　
+
 [メーク授業](https://topics.smt.docomo.ne.jp/article/jiji_region/region/jiji_region-2025062400922)
 >高校２年生を対象としたメークの授業が行われた。
